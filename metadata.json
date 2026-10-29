@@ -1,0 +1,6 @@
+{
+  "name": "Español Shop — Aprende Comprando",
+  "description": "Una plataforma interactiva de aprendizaje de español a través de situaciones reales en una tienda de ropa con traducción al armenio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
